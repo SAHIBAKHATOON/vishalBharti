@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+}
+.navbar_{
+    background-color:  rgb(95, 11, 53);
+    height: 80px;
+}
+.container_fluid{
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+ 
+}
+.container_fluid ul li{
+margin-left: 10px;
+}
+.nav-item a{
+    color: #fff;
+}
+ .navbar-nav .nav-link.active{
+    color: #fff !important;
+ }
+ .nav-item .dropdown-menu{
+    background-color:  rgb(95, 11, 53);
+ }
+img{
+height: 530px;
+ }
+ marquee{
+padding-top: 30px;
+font-size: 30px;
+font-weight: 600;
+color: rgb(95, 11, 53);
+padding-bottom: 20px;
+ }
+ .footer{
+    height: 950px;
+    background-color: rgb(95, 11, 53);
+    color: #fff;
+    
+ }
+ .footer_items{
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 75px;
+ }
+ .footer_items p{
+    font-size: 20px;
+ }
+ .footer_items h3{
+    padding-top: 30px;
+    padding-bottom: 20px;
+ }
+ .footer_items h4{
+    padding-top: 120px;
+    padding-bottom: 30px;
+ }
+ .footer_items .vishal_{
+    padding-bottom: 20px;
+ }
